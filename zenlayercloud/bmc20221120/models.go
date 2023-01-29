@@ -1,6 +1,6 @@
 package bmc
 
-import "github.com/zenlayer/zenlayercloud-sdk-go/zenlayercloud/common"
+import "github.com/wolfgangzhu/test-sdk-go/zenlayercloud/common"
 
 type CreateInstancesRequest struct {
 	*common.BaseRequest

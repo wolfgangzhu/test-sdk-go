@@ -1,7 +1,7 @@
 package bmc
 
 import (
-	"github.com/zenlayer/zenlayercloud-sdk-go/zenlayercloud/common"
+	"github.com/wolfgangzhu/test-sdk-go/zenlayercloud/common"
 )
 
 const (

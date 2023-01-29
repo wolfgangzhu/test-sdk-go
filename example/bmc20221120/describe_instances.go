@@ -1,8 +1,8 @@
 package main
 
 import (
-	bmc "github.com/zenlayer/zenlayercloud-sdk-go/zenlayercloud/bmc20221120"
-	"github.com/zenlayer/zenlayercloud-sdk-go/zenlayercloud/common"
+	bmc "github.com/wolfgangzhu/test-sdk-go/zenlayercloud/bmc20221120"
+	"github.com/wolfgangzhu/test-sdk-go/zenlayercloud/common"
 )
 
 var t = "0"

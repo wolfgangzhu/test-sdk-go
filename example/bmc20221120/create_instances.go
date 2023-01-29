@@ -3,7 +3,7 @@ package main
 import (
 	"encoding/json"
 	"fmt"
-	bmc "github.com/zenlayer/zenlayercloud-sdk-go/zenlayercloud/bmc20221120"
+	bmc "github.com/wolfgangzhu/test-sdk-go/zenlayercloud/bmc20221120"
 	"os"
 )
 

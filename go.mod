@@ -1,3 +1,3 @@
-module github.com/zenlayer/zenlayercloud-sdk-go
+module github.com/wolfgangzhu/test-sdk-go
 
 go 1.9
